@@ -1,0 +1,32 @@
+==EnemyName
+====AdvancedMissile/Movement and BulletPool and Colliders
+======Enemy.cs
+========MeshRenderer and Animator
+======Spawner
+======Spawner
+
+
+verify colliders during pause for all enemies
+
+
+bug fixes: 
+- player gains points when they collide w/ enemy?
+- lock on raycast first check for certain types of collider
+- prevent player from shooting if they have been hit in past .5 seconds
+- prevent player from moving if they have been hit in the past .1 seconds
+- prevent player from losing points from collision if they collide in the past .25 seconds
+- check enemy movement avoidance
+- first (or last?) bullet problem
+- implement player-targeted bullets where the pattern holds its shape
+
+
+
+
+make radar animate on the screen, outline the target in green if it's radar icon is invisible but only if it's not locked on
+
+bullets which force the player to roll
+weapons have the same lock on distance
+make enemy death explosion based on enemy height
+sfx
+bullets that track need directional indication (can elongate)
+bullets should have slightly smaller collider than visual appearance
