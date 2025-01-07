@@ -1,0 +1,30 @@
+First of all : a big thanks for buying this asset, I wish you'll enjoy this one !
+
+Now about the useability
+
+The model comes in 4 versions :
+
+- One OBJ for the sculpt (in case you'd like to print it)
+- One FBX with a skeleton+skin
+- One FBX without a skeleton (so you can import it in maya/3dsmax/blender...etc and rig/skin it yourself)
+- One AKT file containing the skinned and rigged FBX, with an animation sample so you can have a first idea on how to animate this character (feel free to erase/rework them and/or add new ones ;)). This file works with Akeytsu, you can get the software here : https://www.nukeygara.com/try .
+
+The FBX is made to be used in realtime game engines and uses custom weighted vertices normals, make sure to import them and not recompute/replace them
+
+
+Textures consists in 1 4K UVset, and uses combined map channels to reduce drawcalls (better performances). C1 maps combines : Red=Metalness ; Green=Roughness ; Blue=AO. C3 maps combines : Red=Cavity ; Green=BurningGlows Alpha ; Blue=Specular Intensity
+For the Emissive use either the "E" or the "E2" map (depending if you want to combine the eye mesh with the skull caveat or not). Emissive is blank so you can multiply with any color that suits you best =)
+
+Important note about how to setup "sRGB" tick on each texture :
+
+- Textures with these namings SHOULD NOT be in sRGB (unticked) : _N ; _C1 ; _C3
+
+- Textures with these namings SHOULD be in sRGB (ticked) : _Base ; _E
+
+
+
+Textures were made on 3D-Coat using this pack : https://www.artstation.com/vexod14/store/Wmw1/3d-coat-38-stylized-pbr-smartmaterials
+
+Have fun guys ! (And of course please do NOT share these files, that's not cool for artists)
+
+Etienne Beschet (AKA Vexod14)

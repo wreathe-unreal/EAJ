@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 3c375e8c58e17c74f83ee029d655c93b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Aircraft_OldRussian
+  - first:
+      213: 21300002
+    second: Center_Russian
+  - first:
+      213: 21300004
+    second: Circle_Russian
+  - first:
+      213: 21300006
+    second: Point_Russian
+  - first:
+      213: 21300008
+    second: Triangle_Russian
+  - first:
+      213: 21300010
+    second: Horizon_Russian
+  - first:
+      213: 21300012
+    second: Bank_OldRussian
+  - first:
+      213: 21300014
+    second: HorizonStripe_Russian
+  - first:
+      213: 21300016
+    second: Su25_Aircraft_Russian
+  - first:
+      213: 21300018
+    second: AnglesSu25_Russian
+  - first:
+      213: 21300020
+    second: ArrowVertical_Russian
+  - first:
+      213: 21300022
+    second: VLine_Russian
+  - first:
+      213: 21300024
+    second: Mark_Russian
+  - first:
+      213: 21300026
+    second: SlipBar_Russian
+  - first:
+      213: 21300028
+    second: SquareSemi_Russian
+  - first:
+      213: 21300030
+    second: Needle_Russian
+  - first:
+      213: 21300032
+    second: SemiCircle_Russian
+  - first:
+      213: 21300034
+    second: Heading_OldRussian
+  - first:
+      213: 21300036
+    second: Pitch_OldRussian
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aircraft_OldRussian
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 509
+        width: 768
+        height: 384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081d45495544fe40b1c04aa2a6d49f5
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Center_Russian
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 950
+        width: 150
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e481acef41beb4a8b932ee2539fc9d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Russian
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 925
+        width: 197
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03302bff9978bc24bbc167cced73b6e6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point_Russian
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1009
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eeec4da2f5c484492716c1c6d738af
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle_Russian
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1024
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a91b034bb2ee04ab9f54d898145c09
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horizon_Russian
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1269
+        width: 918
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c98a9713c7dcee45a4fa6b08af258c9
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bank_OldRussian
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1434
+        width: 1402
+        height: 614
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9873904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63826f9fe0bb9e429c8fda27a320c16
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowVertical_Russian
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 893
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c3907faf1ba0d4ea6ebb1031037ae4
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VLine_Russian
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 728
+        width: 6
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf564168a7538ac47b8b61c28db72fcd
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mark_Russian
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 852
+        width: 12
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d6dbb6638639c4fa939c006b9417d9
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlipBar_Russian
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 607
+        width: 200
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 9, z: 10, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dc7a11c0b9faf4e8f4ab3206089086
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareSemi_Russian
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 518
+        width: 59
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 2, z: 4, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7342879979f47234eaecf07892ca308b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Needle_Russian
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 311
+        width: 88
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5258d6f5463cf4a8d6573f95c6dce4
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SemiCircle_Russian
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 223
+        width: 113
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2eb61e2af989241b25b21958d4d3d3
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heading_OldRussian
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 1440
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e82e9d79a769844889dfbd6e5a1b2b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pitch_OldRussian
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 530
+        height: 2048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d03cc53261e4647a84f17bdb8835cb
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f031b050c6edc5d4c95011c019378a23
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Aircraft_OldRussian: 21300000
+      ArrowVertical_Russian: 21300020
+      Bank_OldRussian: 21300012
+      Center_Russian: 21300002
+      Circle_Russian: 21300004
+      Heading_OldRussian: 21300034
+      Horizon_Russian: 21300010
+      Mark_Russian: 21300024
+      Needle_Russian: 21300030
+      Pitch_OldRussian: 21300036
+      Point_Russian: 21300006
+      SemiCircle_Russian: 21300032
+      SlipBar_Russian: 21300026
+      SquareSemi_Russian: 21300028
+      Triangle_Russian: 21300008
+      VLine_Russian: 21300022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
